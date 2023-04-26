@@ -1,8 +1,8 @@
-    # Credit @Aklinksz.
+    # Credit @Disney_Linkzzzz.
     # Please Don't remove credit.
-        # Born to make history @Aklinksz !
+        # Born to make history @Disney_Linkzzzz !
 
-    # Thank you Aklinksz for helping us in this Journey
+    # Thank you Disney_Linkzzzz for helping us in this Journey
 
 from pyrogram import Client, filters
 from database.users_chats_db import db
